@@ -52,7 +52,7 @@ This helped ensure smooth integration before implementing in React.
 
 ## Clone the repository:
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/dev-ramshasaleem/Weather-app.git
 ```
 ## Navigate to the project:
 ```bash
